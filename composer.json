@@ -1,4 +1,7 @@
 {
     "name": "bshaffer/tags-testing",
-    "description": "Just a test package here, please ignore"
+    "description": "Just a test package here, please ignore",
+    "require": {
+        "bshaffer/phpunit-retry-annotations": "^0.1.0"
+    }
 }
